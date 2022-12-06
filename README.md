@@ -1,7 +1,7 @@
 - 👋 Hello world, my name is Sergii (@SeGolo);
 - 👀 I’m interested in Data Science and Machine Learnings;
 - 🌱 Currently I'm enhancing my SQL skills and learning Python;
-- Good ☕ with a 🧀 and 🥖
+- Good ☕ with a 🧀 and 🥖 is my passionate!
 - 💞️ I’m looking someone who could help me to find an answers on my stucks faced while learning;
 - 📫 Feel free to contact me:
 - +420 777 635 432 (messangers are here) or s.golovynskyi@gmail.com ;
